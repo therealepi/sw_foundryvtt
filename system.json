@@ -4,12 +4,9 @@
     "description": "",
     "version": "0.1",
     "compatibility": {
-        "minimum": "10",
-        "verified": "",
-        "maximum": ""
+        "minimum": "10"
     },
-},
-"authors":[
+    "authors":[
     {
         "name": "Epi Camacho",
         "url": "https://therealepi.com",
@@ -17,12 +14,11 @@
         "discord": "therealepi"
     }
 ],
-{
 "scripts": [],
 "esmodules": [],
 "styles": [],
 "packs": [],
-"languages" [
+"languages": [
     {"lang": "en",
      "name": "English",
      "path": "lang/en.json"
@@ -34,5 +30,5 @@
 "primaryTokenAttribute": "resources.hp",
 "secondaryTokenAttribute": "resources.ac",
 "manifest": "",
-"download": "",
+"download": ""
 }
