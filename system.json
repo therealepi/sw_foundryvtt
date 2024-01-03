@@ -1,7 +1,7 @@
 {
-"id": "Swords & Wizardry",
-"title": "" ,
-"description": "",
+"id": "sw",
+"title": "Swords & Wizardry" ,
+"description": "Original Author: Matt Finch",
 "version": "0.1",
 "compatibility": {
     "minimum": "10"
