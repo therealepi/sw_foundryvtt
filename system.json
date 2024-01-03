@@ -1,19 +1,19 @@
 {
-    "id": "Swords & Wizardry",
-    "title": "" ,
-    "description": "",
-    "version": "0.1",
-    "compatibility": {
-        "minimum": "10"
+"id": "Swords & Wizardry",
+"title": "" ,
+"description": "",
+"version": "0.1",
+"compatibility": {
+    "minimum": "10"
     },
-    "authors":[
+"authors":[
     {
-        "name": "Epi Camacho",
-        "url": "https://therealepi.com",
-        "email": "epitacio.camacho@gmail.com",
-        "discord": "therealepi"
+    "name": "Epi Camacho",
+    "url": "https://therealepi.com",
+    "email": "epitacio.camacho@gmail.com",
+    "discord": "therealepi"
     }
-],
+    ],
 "scripts": [],
 "esmodules": [],
 "styles": [],
@@ -30,5 +30,5 @@
 "primaryTokenAttribute": "resources.hp",
 "secondaryTokenAttribute": "resources.ac",
 "manifest": "",
-"download": ""
+"download": "https://github.com/therealepi/sw_foundryvtt.git"
 }
