@@ -1,22 +1,22 @@
 {
-    "SW.AbilityStr": "Strength",
-    "SW.AbilityDex": "Dexterity",
-    "SW.AbilityCon": "Constitution",
-    "SW.AbilityInt": "Intelligence",
-    "SW.AbilityWis": "Wisdom",
-    "SW.AbilityCha": "Charisma",
+    "sw_foundryvtt.AbilityStr": "Strength",
+    "sw_foundryvtt.AbilityDex": "Dexterity",
+    "sw_foundryvtt.AbilityCon": "Constitution",
+    "sw_foundryvtt.AbilityInt": "Intelligence",
+    "sw_foundryvtt.AbilityWis": "Wisdom",
+    "sw_foundryvtt.AbilityCha": "Charisma",
   
-    "SW.AbilityStrAbbr": "str",
-    "SW.AbilityDexAbbr": "dex",
-    "SW.AbilityConAbbr": "con",
-    "SW.AbilityIntAbbr": "int",
-    "SW.AbilityWisAbbr": "wis",
-    "SW.AbilityChaAbbr": "cha",
+    "sw_foundryvtt.AbilityStrAbbr": "str",
+    "sw_foundryvtt.AbilityDexAbbr": "dex",
+    "sw_foundryvtt.AbilityConAbbr": "con",
+    "sw_foundryvtt.AbilityIntAbbr": "int",
+    "sw_foundryvtt.AbilityWisAbbr": "wis",
+    "sw_foundryvtt.AbilityChaAbbr": "cha",
   
-    "SW.EffectCreate": "Create Effect",
-    "SW.EffectToggle": "Toggle Effect",
-    "SW.EffectEdit": "Edit Effect",
-    "SW.EffectDelete": "Delete Effect",
+    "sw_foundryvtt.EffectCreate": "Create Effect",
+    "sw_foundryvtt.EffectToggle": "Toggle Effect",
+    "sw_foundryvtt.EffectEdit": "Edit Effect",
+    "sw_foundryvtt.EffectDelete": "Delete Effect",
   
-    "SW.Add": "Add"
+    "sw_foundryvtt.Add": "Add"
   }
