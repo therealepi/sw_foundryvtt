@@ -1,21 +1,21 @@
 {
-    "Actor":{
-        "types": ["pc", "npc", "villain"],
-        "templates": {
-            "resources":{
-                "hp":   {
-                        "min": 0,
-                        "max": 10
-                        },
-            "stats":{
-                    "class":["assasin", "cleric", "druid", "fighter", "magic", "monk", "paladin", "ranger", "thief"],
-                    "race":["dwarves", "elves", "half_elves", "halflings", "humans"],
-                    "gender":["male", "female", "non-binary"],
-                    "alignment":["chaos", "law"],
-                    "deity":"",
-                    "age":""
-                    }
-            }
+  "Actor": {
+    "types": ["pc", "npc", "villain"],
+      "templates": {
+        "resources": {
+          "hp": {
+            "min": 0,
+            "max": 10
+              },
+          "stats":{
+            "class":["assasin", "cleric", "druid", "fighter", "magic", "monk", "paladin", "ranger", "thief"],
+            "race":["dwarves", "elves", "half_elves", "halflings", "humans"],
+            "gender":["male", "female", "non-binary"],
+            "alignment":["chaos", "law"],
+            "deity":"",
+            "age":""
         }
+      }
     }
+  }
 }

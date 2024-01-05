@@ -1,35 +1,36 @@
 {
-"name": "sw_foundryvtt",
-"title": "Swords & Wizardry" ,
-"description": "Original Author: Matt Finch",
-"version": "0.1",
-"compatibility": {
-    "minimum": "10",
+  "id": "sw_foundryvtt",
+  "title": "Swords & Wizardry",
+  "description": "Original Author: Matt Finch",
+  "version": "0.1",
+  "compatibility": {
+    "minimum": "11",
     "verified": "11"
-    },
-"authors":[
+  },
+  "authors":[
     {
-    "name": "Epi Camacho",
-    "url": "https://therealepi.com",
-    "email": "epitacio.camacho@gmail.com",
-    "discord": "therealepi"
+      "name": "Epi Camacho",
+      "url": "https://therealepi.com",
+      "email": "epitacio.camacho@gmail.com",
+      "discord": "therealepi"
+      }
+  ],
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
     }
-    ],
-"scripts": [],
-"esmodules": [],
-"styles": [],
-"packs": [],
-"languages": [
-    {"lang": "en",
-     "name": "English",
-     "path": "lang/en.json"
-    }
-],
-"socket": false,
-"initiative": "1d6",
-"gridUnits": "ft",
-"primaryTokenAttribute": "resources.hp",
-"secondaryTokenAttribute": "resources.ac",
-"manifest": "",
-"download": "https://github.com/therealepi/sw_foundryvtt.git"
+  ],
+  "socket": false,
+  "initiative": "1d6",
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "resources.hp",
+  "secondaryTokenAttribute": "resources.ac",
+  "manifest": "",
+  "download": "https://github.com/therealepi/sw_foundryvtt.git"
 }
